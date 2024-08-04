@@ -1,6 +1,6 @@
 **Dependencies:**
 
-* **ESX** - Framework (can be configured for your own system).
+* **ESX/QB** - Framework (can be configured for your own system).
 * **OX_lib**: textui and progressbar (can beconfigured).
 
 Preview: https://youtu.be/eKjJP-1w-VI
